@@ -1,0 +1,17 @@
+# macOS junk
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor backups
+*.bak
+*~
+.#*
+
+# Never back up secrets
+*.env
+.env.*
+*.key
+*.pem
+*.p12
+id_rsa*
